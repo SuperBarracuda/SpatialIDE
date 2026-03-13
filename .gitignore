@@ -1,0 +1,7 @@
+.DS_Store
+*.app/
+# Keep compiled binaries out, source only
+SpatialVisualiser
+SpatialVisualiser_v1
+SpatialVisualiser_v2
+SpatialVisualiser_v3
